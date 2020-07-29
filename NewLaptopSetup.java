@@ -6,6 +6,10 @@ public class NewLaptopSetup {
         System.out.println("Good Bye World");
         System.out.println("Greetings World");
         System.out.println("Good night world");
+        System.out.println("Greetings World");
+        System.out.println("Good night world");
+        System.out.println("Greetings World");
+        System.out.println("Good night world");
 
 
 
